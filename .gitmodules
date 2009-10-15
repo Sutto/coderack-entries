@@ -1,0 +1,141 @@
+[submodule "rackobama"]
+	path = rackobama
+	url = git://gist.github.com/210894.git
+[submodule "imagesizer"]
+	path = imagesizer
+	url = git://gist.github.com/208385.git
+[submodule "rackgoogleanalytics"]
+	path = rackgoogleanalytics
+	url = git://gist.github.com/207948.git
+[submodule "rackcodehighlighter"]
+	path = rackcodehighlighter
+	url = git://gist.github.com/208671.git
+[submodule "racktidy"]
+	path = racktidy
+	url = git://gist.github.com/209459.git
+[submodule "rack-couchlogger"]
+	path = rack-couchlogger
+	url = git://gist.github.com/208080.git
+[submodule "zombie-shotgun"]
+	path = zombie-shotgun
+	url = git://gist.github.com/207355.git
+[submodule "rakismet-akismet-client"]
+	path = rakismet-akismet-client
+	url = git://gist.github.com/122134.git
+[submodule "rackroll"]
+	path = rackroll
+	url = git://gist.github.com/210619.git
+[submodule "rackkanye"]
+	path = rackkanye
+	url = git://gist.github.com/210408.git
+[submodule "rack-sparklines"]
+	path = rack-sparklines
+	url = git://gist.github.com/207241.git
+[submodule "runtime"]
+	path = runtime
+	url = git://gist.github.com/206438.git
+[submodule "canonical-host"]
+	path = canonical-host
+	url = git://gist.github.com/206213.git
+[submodule "bruteforcekilla"]
+	path = bruteforcekilla
+	url = git://gist.github.com/210496.git
+[submodule "rackrewrite"]
+	path = rackrewrite
+	url = git://gist.github.com/208916.git
+[submodule "geoip-country"]
+	path = geoip-country
+	url = git://gist.github.com/208774.git
+[submodule "censor"]
+	path = censor
+	url = git://gist.github.com/208686.git
+[submodule "enforcessl"]
+	path = enforcessl
+	url = git://gist.github.com/208076.git
+[submodule "customdomain"]
+	path = customdomain
+	url = git://gist.github.com/166195.git
+[submodule "rack-proctitle"]
+	path = rack-proctitle
+	url = git://gist.github.com/206167.git
+[submodule "i18n-javascript"]
+	path = i18n-javascript
+	url = git://gist.github.com/210738.git
+[submodule "api-version-mapper"]
+	path = api-version-mapper
+	url = git://gist.github.com/208254.git
+[submodule "lieserver"]
+	path = lieserver
+	url = git://gist.github.com/207984.git
+[submodule "rackrequeststatistictracker"]
+	path = rackrequeststatistictracker
+	url = git://gist.github.com/206216.git
+[submodule "memorybloat"]
+	path = memorybloat
+	url = git://gist.github.com/210607.git
+[submodule "referercontrol"]
+	path = referercontrol
+	url = git://gist.github.com/208018.git
+[submodule "rackproxy"]
+	path = rackproxy
+	url = git://gist.github.com/207938.git
+[submodule "karma-chameleon"]
+	path = karma-chameleon
+	url = git://gist.github.com/208616.git
+[submodule "rackchromeframe"]
+	path = rackchromeframe
+	url = git://gist.github.com/206201.git
+[submodule "racklayoutwrapper"]
+	path = racklayoutwrapper
+	url = git://gist.github.com/211235.git
+[submodule "firebug-logger"]
+	path = firebug-logger
+	url = git://gist.github.com/210069.git
+[submodule "inlineuploader"]
+	path = inlineuploader
+	url = git://gist.github.com/207985.git
+[submodule "accesscontrol"]
+	path = accesscontrol
+	url = git://gist.github.com/206439.git
+[submodule "rackflash"]
+	path = rackflash
+	url = git://gist.github.com/206376.git
+[submodule "livestats"]
+	path = livestats
+	url = git://gist.github.com/208469.git
+[submodule "probably-versioned"]
+	path = probably-versioned
+	url = git://gist.github.com/207929.git
+[submodule "response-time-injector"]
+	path = response-time-injector
+	url = git://gist.github.com/207325.git
+[submodule "rackrbl"]
+	path = rackrbl
+	url = git://gist.github.com/211049.git
+[submodule "racknoie"]
+	path = racknoie
+	url = git://gist.github.com/207947.git
+[submodule "redisrequestlimiter"]
+	path = redisrequestlimiter
+	url = git://gist.github.com/206909.git
+[submodule "casrack-the-authenticator"]
+	path = casrack-the-authenticator
+	url = git://gist.github.com/206242.git
+[submodule "revisioninfo"]
+	path = revisioninfo
+	url = git://gist.github.com/191894.git
+[submodule "watermarkme"]
+	path = watermarkme
+	url = git://gist.github.com/210849.git
+[submodule "glitch"]
+	path = glitch
+	url = git://gist.github.com/208203.git
+[submodule "banhammer"]
+	path = banhammer
+	url = git://gist.github.com/208035.git
+[submodule "tyrantsession"]
+	path = tyrantsession
+	url = git://gist.github.com/207987.git
+[submodule "server-proxy"]
+	path = server-proxy
+	url = git://gist.github.com/206529.git
