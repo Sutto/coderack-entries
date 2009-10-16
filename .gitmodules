@@ -139,3 +139,9 @@
 [submodule "server-proxy"]
 	path = server-proxy
 	url = git://gist.github.com/206529.git
+[submodule "rackpot"]
+	path = rackpot
+	url = git://gist.github.com/211675.git
+[submodule "irack"]
+	path = irack
+	url = git://gist.github.com/211754.git
