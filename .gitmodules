@@ -145,3 +145,33 @@
 [submodule "irack"]
 	path = irack
 	url = git://gist.github.com/211754.git
+[submodule "rack-noslashdot"]
+	path = rack-noslashdot
+	url = git://gist.github.com/212123.git
+[submodule "homey"]
+	path = homey
+	url = git://gist.github.com/219018.git
+[submodule "rackinjector"]
+	path = rackinjector
+	url = git://gist.github.com/213467.git
+[submodule "rackcachebuster"]
+	path = rackcachebuster
+	url = git://gist.github.com/218919.git
+[submodule "staging"]
+	path = staging
+	url = git://gist.github.com/217920.git
+[submodule "rackcustomdomain"]
+	path = rackcustomdomain
+	url = git://gist.github.com/166195.git
+[submodule "resource-count"]
+	path = resource-count
+	url = git://gist.github.com/216629.git
+[submodule "rackcontentservant"]
+	path = rackcontentservant
+	url = git://gist.github.com/217558.git
+[submodule "rackresponseassembler"]
+	path = rackresponseassembler
+	url = git://gist.github.com/213459.git
+[submodule "refraction"]
+	path = refraction
+	url = git://gist.github.com/217721.git
